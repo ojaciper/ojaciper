@@ -1,3 +1,5 @@
+![Osas's github stats](https://github-readme-stats.vercel.app/api?username=ojaciper&show_icons=true&theme=react)
+
 # Hi, I'm Peter Osas! 👋
 
 
